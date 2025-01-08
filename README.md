@@ -2,7 +2,7 @@
 - 👀 Aspiring developer building AI-powered tools
 - 🌱 I’m currently learning the basics 
 - 💞️ I’m looking to collaborate on projects and knowlegde 
-- 📫 How to reach me ...
+- 📫 How to reach me
 - 
 - ⚡ Fun fact: Living in Los Angeles 
 
